@@ -1,0 +1,76 @@
+
+.imagen-item{
+    padding-bottom: 2rem;
+}
+.info-1 p, h1{
+    text-align: left;
+    padding: 20px;
+}
+.info-1 p{
+    padding-bottom: 0px;
+}
+.info2{
+    height: 250px;
+}
+.lista-num{
+    text-align: left;
+    display: list-item;
+}
+.lista-num ol,h2{
+    padding-left: 39px;
+}
+
+.info2 ul,li,h2{
+    padding-left: 39px;
+    padding-right: 0;
+}
+/*diseñando las actividades*/
+
+.padre-1{
+    display: flex;
+    width: 100%;
+    padding: 0;
+    justify-content: left;
+}
+.hijo-info{
+    flex-direction: column;
+    width: 50%;
+}
+.hijo-2{
+    width: 50%;
+    height: 500px;
+    float: right;
+    justify-content: center;
+}
+.imagen-2{
+    height: 100%;
+    width: 50%;
+}
+/*DISEÑO DE LA GALERIA*/
+div.gallery {
+    margin: 5px;
+    float: left;
+    width: 480px;
+  }
+  
+ 
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  .texto-{
+    color: white;
+  }
+
+  table{
+    width: 999px;
+    color: white;
+    padding: 30px;
+  }
+  .tabla{
+    width: 100%;
+  }
+ 
